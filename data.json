@@ -1,0 +1,14 @@
+{
+    "saldoInicial": -3205,
+    "saldoFinal": 4722,
+    "reducaoEconomia": -247,
+    "economiaMes": 7927,
+    "despesas": [
+        {"categoria": "Alimentação", "planejado": 50, "real": 50, "diferenca": 0},
+        {"categoria": "Transporte", "planejado": 100, "real": 90, "diferenca": 10}
+    ],
+    "renda": [
+        {"categoria": "Poupança", "planejado": 50, "real": 50, "diferenca": 0},
+        {"categoria": "Salário", "planejado": 3000, "real": 3000, "diferenca": 0}
+    ]
+}
